@@ -1,138 +1,55 @@
-Privacy Policy for Flirt: AI Dating Coach
+Privacy Policy for Flirt AI
 
-Last Updated: November 24, 2025
-Support Email: YoGeeStudios@gmail.com
+Effective: October 6, 2026
+Operated by: Yogee Studios
+Contact: yogeestudios@gmail.com
 
-Flirt: AI Dating Coach (“Flirt,” “we,” “us,” or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application Flirt: AI Dating Coach (the “App”).
+Flirt AI is a dating and communication coaching app for adults 18 and older. This policy explains what information the app uses, where it goes, and the choices you have.
 
-By using the App, you agree to the collection and use of information as described in this Privacy Policy.
+1. Information you choose to share
 
-1. Information We Collect
-1.1 Information You Provide
+Account. If you sign in with Apple, we receive an account identifier and, if you choose to share it, your email address. We use these only to provide account access.
 
-We may collect information that you voluntarily provide when using the App, including:
+Content you submit. When you ask for AI help, the messages you type, the screenshots you select, and any optional coaching preferences you have enabled are sent for processing as described in section 2.
 
-Text inputs, prompts, or messages you type into the app for coaching or advice.
+Stored on your device. Coaching conversations, drafts, saved history, practice sessions, lesson progress, points and streaks, and optional coaching preferences (which may include age, gender, dating preferences and goals) are saved locally on your device. Please avoid entering names, contact details or private information you do not have permission to share.
 
-Profile details such as gender, age range, preferences, or goals (if provided).
+2. AI assistance
 
-Email address if you contact support.
+With your permission, submitted messages, selected screenshots and enabled profile preferences are sent through our backend (hosted on Supabase) to OpenAI to generate a response. Selected screenshots are resized on your device and transmitted only when you request an analysis.
 
-We do NOT collect or store:
+We do not store your conversation inputs in our application database. Generated responses are cached briefly on our server (about 15 minutes) so a failed request can be retried, then removed by scheduled cleanup. Our requests to OpenAI disable response storage, but OpenAI may retain data for security and abuse monitoring under its own policies: https://platform.openai.com/docs/guides/your-data
 
-Personal messages from your device’s SMS, iMessage, WhatsApp, or any messaging platform.
+Screenshot drafts are saved locally with device file protection. If you save an analysis to history, its screenshots stay with that saved result on your device until you delete it.
 
-Contacts or address book data.
+AI responses can be wrong. The AI cannot know another person's thoughts and is not a substitute for your own judgment or for professional advice.
 
-Photos outside of those you explicitly upload for in-app features.
+3. Purchases
 
-1.2 Automatically Collected Information
+Apple processes all payments. RevenueCat processes a pseudonymous account identifier and your purchase and entitlement information so we can confirm your subscription. We never receive your full payment card details. We keep daily AI usage counts and request identifiers for up to 30 days to enforce usage limits and prevent fraud.
 
-The App may automatically collect:
+4. Your choices and deletion
 
-Device type, model, and operating system version.
+You can turn off AI sharing at any time in Profile > AI privacy. You can delete local conversations and history and reset your profile in the app.
 
-App usage analytics (feature usage, session length, interactions).
+Profile > Account > Delete account removes your account, server usage records, your RevenueCat customer record, and that account's local data on the device where you request deletion. Copies on other devices must be removed on those devices. Provider logs, backups and legally required records follow their own retention periods.
 
-Crash data and performance diagnostics.
+Deleting your account does not cancel an Apple subscription. Manage or cancel it in your App Store account settings.
 
-We do not collect any device identifiers that can personally identify you unless required for analytics or security.
+5. Security, service providers and location
 
-1.3 Subscription & Payment Information
+We use encrypted network connections, iOS protected local files and Keychain storage for your session. Supabase, OpenAI, RevenueCat and Apple process information to deliver their services, possibly in countries other than your own. No system can guarantee absolute security.
 
-All payments and subscriptions are handled securely through Apple’s App Store / In-App Purchases.
-We do not receive or store your credit card information.
+We do not sell personal information, and we do not use it for cross-app advertising or tracking.
 
-2. How We Use Your Information
+6. Adults only
 
-We use the information we collect to:
+Flirt AI is intended for adults 18 and older. We do not knowingly collect information from anyone under 18.
 
-Provide AI-based dating coaching and conversation guidance.
+7. Your rights
 
-Improve app accuracy, tone, and personalization.
+Depending on where you live, you may have the right to access, correct, delete or restrict the use of your information. Contact yogeestudios@gmail.com to make a request or raise a concern.
 
-Monitor performance and enhance reliability.
+8. Changes
 
-Detect and fix bugs, crashes, or technical issues.
-
-Provide customer support when requested.
-
-Your data is never used to train external models in a way that identifies you.
-Your inputs may be processed by third-party AI providers solely to generate responses.
-
-3. How We Do NOT Use Your Information
-
-We do not:
-
-Sell your personal information.
-
-Share your data with advertisers.
-
-Access your private messages or conversations on your phone.
-
-Track your device across other apps or websites.
-
-4. Third-Party Services
-
-We may use trusted third-party services to operate and improve the App, including:
-
-Analytics providers (usage statistics, performance metrics)
-
-AI model providers (processing your text inputs)
-
-Crash reporting tools
-
-These providers may have access to certain data only for performing tasks on our behalf, and they are obligated not to disclose or use it for any other purpose.
-
-5. Data Retention
-
-We retain data only for as long as necessary to:
-
-Provide the service
-
-Improve accuracy and performance
-
-Comply with legal obligations
-
-You may request deletion of your data anytime by contacting YoGeeStudios@gmail.com
-
-6. Security
-
-We implement reasonable security measures designed to protect your information.
-However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
-
-7. Your Rights
-
-Depending on your region, you may have the right to:
-
-Request access to your data
-
-Request corrections
-
-Request deletion
-
-Opt out of analytics or data processing
-
-Ask questions or file concerns
-
-Contact us at YoGeeStudios@gmail.com
- to exercise any of these rights.
-
-8. Children’s Privacy
-
-Flirt: AI Dating Coach is not intended for anyone under 18.
-We do not knowingly collect data from children. If we learn that data from a minor was collected, we will delete it promptly.
-
-9. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time.
-When we do, we will update the “Last Updated” date at the top of the policy.
-
-Continued use of the App after changes indicates acceptance of the updated policy.
-
-10. Contact Us
-
-For questions about this Privacy Policy or your data:
-
-YoGee Studios
-Email: YoGeeStudios@gmail.com
+We may update this policy. When we do, we will change the effective date above.
