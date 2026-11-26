@@ -1,6 +1,6 @@
 Privacy Policy for Flirt AI
 
-Effective: October 6, 2026
+Effective: November 26, 2026
 Operated by: Yogee Studios
 Contact: yogeestudios@gmail.com
 
@@ -16,7 +16,15 @@ Stored on your device. Coaching conversations, drafts, saved history, practice s
 
 2. AI assistance
 
-With your permission, submitted messages, selected screenshots and enabled profile preferences are sent through our backend (hosted on Supabase) to OpenAI to generate a response. Selected screenshots are resized on your device and transmitted only when you request an analysis.
+Flirt AI uses OpenAI (OpenAI, L.L.C.), a third-party AI service, to generate replies, analyses, coaching and practice feedback.
+
+What is sent: the messages you type or paste into a feature, the screenshots you choose to analyze, and your optional coaching profile (age, gender, what you're looking for and your goals) if you have filled it in. Your contacts, location, Apple ID and photos you did not select are never sent.
+
+How it is collected: only when you tap a button such as Generate, Analyze or Send. Selected screenshots are resized on your device first. Your data travels over an encrypted connection to our backend (hosted on Supabase), which forwards it to OpenAI.
+
+Your permission comes first: before anything is sent, the app shows a screen explaining what is sent and that it goes to OpenAI, and asks you to tap Allow. If you choose Don't Allow, nothing is sent and the AI features stay off. You can change your choice at any time in Profile > AI privacy.
+
+How it is used: only to produce the response you asked for. OpenAI does not use data sent through its API to train its models. OpenAI is bound by its API data commitments and processes this data under protections the same as or equal to those described in this policy.
 
 We do not store your conversation inputs in our application database. Generated responses are cached briefly on our server (about 15 minutes) so a failed request can be retried, then removed by scheduled cleanup. Our requests to OpenAI disable response storage, but OpenAI may retain data for security and abuse monitoring under its own policies: https://platform.openai.com/docs/guides/your-data
 
